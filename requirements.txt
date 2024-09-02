@@ -9,6 +9,8 @@ kaggle
 nbdev
 plotly
 seaborn
+soundfile
+spotipy
 statsmodels
 sympy
 timm
